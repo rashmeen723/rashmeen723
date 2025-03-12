@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmeen Kavindya</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmeen723&label=Profile%20views&color=0e75b6&style=flat" alt="rashmeen723" /> </p>
 
-- 🔭 I’m currently working on **Weather Application**
-
-- 🌱 I’m currently learning **MERN stack,Java,C++**
-
 - 💬 Ask me about **Python,C,React**
 
 - 📫 How to reach me **rashminkavindya2@gmail.com**

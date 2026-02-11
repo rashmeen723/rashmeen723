@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rashmeen723&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/rashmeen723?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/GPA-3.30-brightgreen?style=for-the-badge" alt="GPA" />
 </div>
 
 ---
@@ -16,12 +15,9 @@
 const rashmeen = {
     currentRole: "Software Engineering Intern",
     education: "IT & Management @ University of Moratuwa",
-    location: "Ambalantota, Sri Lanka 🇱🇰",
-    graduation: 2027,
-    currentGPA: 3.30,
     currentFocus: "Full Stack Development & IoT Solutions",
     learning: ["React Native", "Ballerina", "Cloud Technologies"],
-    interests: ["Web Development", "Mobile Development", "Machine Learning", "IoT"],
+    interests: ["Web Development", "Mobile Development", "Machine Learning", "Artifial Intelligence"],
     achievements: ["HackElite 2.0 - 2nd Runner-Up 🏆"],
     funFact: "I turn coffee into code and ideas into reality! ☕💻",
     email: "rashminkavindya2@gmail.com"
@@ -140,12 +136,8 @@ const rashmeen = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmeen723&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmeen723&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmeen723&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmeen723&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmeen723&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 ---
@@ -170,33 +162,40 @@ const rashmeen = {
 
 ---
 
-### 💼 Professional Skills
+### 💼 Skills & Interests
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-mindmap
-  root((Rashmeen))
-    Technical Skills
-      Full Stack Development
-      Mobile Development
-      Database Design
-      UI/UX Design
-    Soft Skills
-      Teamwork
-      Time Management
-      Effective Communication
-      Critical Thinking
-      Creativity
-      Project Management
-    Interests
-      Reading
-      Dancing
-      Drawing
-      Traveling
-```
+#### 💻 Technical Excellence
+- **Full Stack Development**
+- **Mobile Development**
+- **Database Design & Optimization**
+- **UI/UX Design**
+- **IoT & Hardware Integration**
+- **Cloud Technologies**
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 Soft Skills
+- **Teamwork & Collaboration**
+- **Time Management**
+- **Effective Communication**
+- **Critical Thinking**
+- **Creativity & Innovation**
+- **Project Management**
+
+#### 🎨 Interests
+- 📚 Reading
+- 💃 Dancing
+- 🎨 Drawing
+- ✈️ Traveling
+
+</td>
+</tr>
+</table>
 
 ---
 
